@@ -99,7 +99,7 @@
 # Answer the following question:
 #
 # One Git concept I understand better now is:
-
+# I better understand how R and GitHub communicate and how to push my edited material to GitHub
 
 
 # Save the file again, then repeat:
