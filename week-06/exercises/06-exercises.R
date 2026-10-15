@@ -58,6 +58,7 @@
 	    color = "Cut") +
 	  theme_minimal()
 	
+	? theme_minimal
 	
 	p_scatter
 
